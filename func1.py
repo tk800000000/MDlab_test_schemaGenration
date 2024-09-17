@@ -49,7 +49,7 @@ def searchFromCN(nodeName):
     return rsltCN
 
 
-with open(nodeName + "CN.csv", "w", encoding="utf-8") as f:
+with open("rslt/" + nodeName + "CN.csv", "w", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["ConceptNet"])
     writer.writerow(["end", "rel", "count"])
