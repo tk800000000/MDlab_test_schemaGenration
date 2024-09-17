@@ -24,3 +24,5 @@ PREFIX acl: <http://www.w3.org/ns/auth/acl#>
 LOV = "https://lov.linkeddata.es/dataset/lov/sparql"
 
 CCAHE = "https://lod.openlinksw.com/sparql/"
+
+WD = "https://query.wikidata.org/sparql"
