@@ -16,7 +16,8 @@ PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>
 PREFIX void: <http://rdfs.org/ns/void#>
 PREFIX prov: <http://www.w3.org/ns/prov#>
 PREFIX gr: <http://purl.org/goodrelations/v1#>
-
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX acl: <http://www.w3.org/ns/auth/acl#>
 
 """
